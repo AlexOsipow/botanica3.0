@@ -1,0 +1,1455 @@
+/*font-family: 'Montserrat', sans-serif;
+
+font-family: 'Playfair Display', serif;*/
+html,body {
+background: #E5E5E5;
+
+ height: 100%;
+ margin: 0px;
+ padding: 0px;
+ width: 100%;
+}
+.line1{
+    position: absolute;
+    width: 100%;
+    height: 0px;
+    left: 0px;
+    top: 26px;
+    
+    border: 1px solid #AE7C78;
+}
+
+.line2{
+    
+position: absolute;
+width: 100%;
+height: 0px;
+left: 0px;
+top: 90px;
+
+border: 1px solid #AE7C78;
+}
+
+.logo{
+position: absolute;
+left: 44%;
+top: 30px;
+width:150px;
+}
+
+/*-----------------------------------------------------------------------*/
+
+.container1 h1{
+/* Каталог */
+
+
+position: absolute;
+width: 66px;
+height: 20px;
+left: 120px;
+top: 39px;
+
+font-family: 'Montserrat', sans-serif;
+font-style: normal;
+font-weight: normal;
+font-size: 16px;
+line-height: 20px;
+/* identical to box height */
+
+text-align: center;
+
+color: #AE7C78;
+}
+
+.container1 h2{
+   /* Доставка и оплата */
+
+
+position: absolute;
+width: 154px;
+height: 20px;
+left: 288px;
+top: 35px;
+
+font-family: 'Montserrat', sans-serif;
+font-style: normal;
+font-weight: normal;
+font-size: 16px;
+line-height: 20px;
+/* identical to box height */
+
+
+color: #AE7C78; 
+}
+
+.container1 h3{
+ /* Отзывы */
+
+
+position: absolute;
+width: 65px;
+height: 20px;
+left: 530px;
+top: 31px;
+
+font-family: 'Montserrat', sans-serif;
+font-style: normal;
+font-weight: normal;
+font-size: 16px;
+line-height: 20px;
+/* identical to box height */
+
+text-align: center;
+
+color: #AE7C78;   
+}
+
+.container1 h4{
+ /* Спецпредложения */
+
+
+position: absolute;
+width: 160px;
+height: 20px;
+left: 870px;
+top: 27px;
+
+font-family: 'Montserrat', sans-serif;
+font-style: normal;
+font-weight: normal;
+font-size: 16px;
+line-height: 20px;
+/* identical to box height */
+
+text-align: center;
+
+color: #AE7C78;   
+}
+
+.container1 h5{
+  /* Контакты */
+
+
+position: absolute;
+width: 78px;
+height: 20px;
+left: 1125px;
+top: 23px;
+
+font-family: 'Montserrat', sans-serif;
+font-style: normal;
+font-weight: normal;
+font-size: 16px;
+line-height: 20px;
+/* identical to box height */
+
+text-align: center;
+
+color: #AE7C78;  
+}
+
+.container1 h6{
+ /* Корзина */
+
+
+position: absolute;
+width: 72px;
+height: 20px;
+left: 1300px;
+top: 11px;
+
+font-family: 'Montserrat', sans-serif;
+font-style: normal;
+font-weight: normal;
+font-size: 16px;
+line-height: 20px;
+/* identical to box height */
+
+text-align: center;
+
+color: #AE7C78;   
+}
+
+
+/*-----------------------------------------------------------------------*/
+
+.container2 h1{
+/* Авторские букеты в Петербурге */
+
+
+position: absolute;
+width: 384px;
+height: 118px;
+left: 120px;
+top: 171px;
+
+font-family: 'Playfair Display', serif;
+font-style: normal;
+font-weight: normal;
+font-size: 44px;
+line-height: 59px;
+
+color: #AE7C78;
+
+}
+.container2 h2{
+ /* Оригинальные свежие букеты с доставкой по всему городу */
+
+
+position: absolute;
+width: 384px;
+height: 58px;
+left: 120px;
+top: 313px;
+
+font-family: 'Montserrat', sans-serif;
+font-style: normal;
+font-weight: normal;
+font-size: 24px;
+line-height: 29px;
+
+color: #AE7C78;   
+}
+.container2 p{
+/* Смотреть каталог */
+
+
+position: absolute;
+width: 150px;
+height: 20px;
+left: 180px;
+top: 475px;
+right: 1300px;
+
+font-family: 'Montserrat', sans-serif;
+font-style: normal;
+font-weight: normal;
+font-size: 16px;
+line-height: 20px;
+/* identical to box height */
+
+
+color: #FFFFFF;
+
+    
+}
+
+.container2 h3 img{
+    position: absolute;
+width: 386px;
+height: 404px;
+left: 540px;
+top: 230px;
+border-radius: 10px;
+}
+
+
+.container2 h4 img{
+position: absolute;
+width: 387px;
+height: 420px;
+left: 946px;
+top: 172px;
+border-radius: 10px;   
+}
+
+.rectangle12{
+    /* Rectangle 12 */
+
+
+position: absolute;
+width: 285px;
+height: 80px;
+left: 120px;
+top: 460px;
+
+background: #D89999;
+border-radius: 40px;
+}
+
+.advantage1 h1{
+/* Быстрая доставка */
+
+
+position: absolute;
+width: 152px;
+height: 20px;
+left: 222px;
+top: 682px;
+
+font-family: Montserrat;
+font-style: normal;
+font-weight: 500;
+font-size: 16px;
+line-height: 20px;
+/* identical to box height */
+
+
+color: #AE7C78;
+}
+.advantage1 h2{
+
+    /* Можем собрать букет и передать его в доставку всего за час. */
+
+
+position: absolute;
+width: 285px;
+height: 40px;
+left: 222px;
+top: 710px;
+
+font-family: Montserrat;
+font-style: normal;
+font-weight: normal;
+font-size: 16px;
+line-height: 20px;
+
+color: #AE7C78;
+}
+
+.advantage2 h1{
+    /* Всегда свежие цветы */
+
+
+position: absolute;
+width: 182px;
+height: 20px;
+left: 628px;
+top: 682px;
+
+font-family: Montserrat;
+font-style: normal;
+font-weight: 500;
+font-size: 16px;
+line-height: 20px;
+/* identical to box height */
+
+
+color: #AE7C78;
+
+}
+
+.advantage2 h2{
+ /* Тщательно следим за состоянием цветов, а опытные флористы отбирают для букетов каждый цветок. */
+
+
+position: absolute;
+width: 285px;
+height: 80px;
+left: 628px;
+top: 710px;
+
+font-family: Montserrat;
+font-style: normal;
+font-weight: normal;
+font-size: 16px;
+line-height: 20px;
+
+color: #AE7C78;
+   
+}
+
+.advantage3 h1{
+/* Отправляем фото цветов */
+
+
+position: absolute;
+width: 213px;
+height: 20px;
+left: 1035px;
+top: 682px;
+
+font-family: Montserrat;
+font-style: normal;
+font-weight: 500;
+font-size: 16px;
+line-height: 20px;
+/* identical to box height */
+
+
+color: #AE7C78;
+
+}
+
+.advantage3 h2{
+/* Перед доставкой сделаем фотографию букета и отправим вам. */
+
+
+position: absolute;
+width: 285px;
+height: 60px;
+left: 1035px;
+top: 710px;
+
+font-family: Montserrat;
+font-style: normal;
+font-weight: normal;
+font-size: 16px;
+line-height: 20px;
+
+color: #AE7C78;
+}
+
+
+.advantage1 img{
+    /* Vector */
+
+
+    position: absolute;
+    width: 285px;
+    height: 40px;
+    left:37px;
+    top: 700px;
+}
+
+.advantage2 img{
+/* Vector */
+
+
+position: absolute;
+width: 285px;
+height: 60px;
+left: 450px;
+top: 700px;
+}
+
+.advantage3 img{
+/* Vector */
+
+
+position: absolute;
+width: 285px;
+height: 40px;
+left: 850px;
+top: 700px;
+
+}
+
+
+
+
+.container3 h1{
+    /* Популярные букеты */
+
+
+position: absolute;
+width: 390px;
+height: 48px;
+left: 540px;
+top: 870px;
+
+font-family: Playfair Display;
+font-style: normal;
+font-weight: bold;
+font-size: 36px;
+line-height: 48px;
+/* identical to box height */
+
+letter-spacing: 0.02em;
+
+color: #AE7C78
+}
+
+.popular h1{
+/* Букет «Нежность» */
+
+
+position: absolute;
+width: 290px;
+height: 29px;
+left: 323px;
+top: 990px;
+
+font-family: Montserrat;
+font-style: normal;
+font-weight: 500;
+font-size: 24px;
+line-height: 29px;
+
+color: #AE7C78;
+}
+
+.container3 h2{
+    /* Элегантный букет, который станет отличным подарком на день рождения или юбилей. */
+
+
+position: absolute;
+width: 387px;
+height: 40px;
+left: 323px;
+top: 1050px;
+
+font-family: Montserrat;
+font-style: normal;
+font-weight: normal;
+font-size: 16px;
+line-height: 20px;
+
+color: #AE7C78;
+
+}
+
+.container3 h3{/* 30 × 40 см */
+
+
+    position: absolute;
+    width: 85px;
+    height: 20px;
+    left: 324px;
+    top: 1110px;
+    
+    font-family: Montserrat;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 16px;
+    line-height: 20px;
+    /* identical to box height */
+    
+    
+    color: #AE7C78;
+}
+
+.container3 h4{
+    /* 3600 руб. */
+
+
+position: absolute;
+width: 140px;
+height: 29px;
+left: 324px;
+top: 1138px;
+
+font-family: Montserrat;
+font-style: normal;
+font-weight: 500;
+font-size: 24px;
+line-height: 29px;
+
+color: #AE7C78;
+}
+
+.container3 h5{
+    /* Заказать */
+
+
+    position: absolute;
+    width: 73px;
+    height: 20px;
+    left: 429px;
+    top: 1245px;
+    
+    font-family: Montserrat;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 16px;
+    line-height: 20px;
+    /* identical to box height */
+    
+    
+    color: #FFFFFF;
+}
+.rectangle16{
+/* Rectangle 16 */
+
+
+position: absolute;
+width: 285px;
+height: 80px;
+left: 324px;
+top: 1240px;
+
+background: #D89999;
+border-radius: 40px;
+}
+
+.container3 img{
+    
+position: absolute;
+width: 387px;
+height: 438px;
+left: 780px;
+top: 954px;
+}
+.strelki h1 img{
+    /* Arrow 1 */
+
+
+position: absolute;
+width: 50px;
+
+left: 420px;
+top: 257.5px;
+}
+
+.strelki h2 img{
+/* Arrow 2 */
+
+
+position: absolute;
+width: 50px;
+left: 360px;
+top: 200px;
+
+}
+
+
+.rect1{
+    position: absolute;
+    width: 387px;
+    height: 442px;
+    left: 121px;
+    top: 1596px;
+    
+    background: rgba(174, 124, 120, 0.6);
+    border-radius: 10px;
+}
+.rect2{
+    position: absolute;
+    width: 387px;
+    height: 442px;
+    left: 557px;
+    top: 1596px;
+    
+    background: rgba(174, 124, 120, 0.6);
+    border-radius: 10px;
+}
+.rect3{
+    position: absolute;
+    width: 387px;
+    height: 442px;
+    left: 993px;
+    top: 1596px;
+    
+    background: rgba(174, 124, 120, 0.6);
+    border-radius: 10px;   
+}
+
+
+
+.card1 img{
+    position: absolute;
+    width: 387px;
+    height: 442px;
+    left: 120px;
+    top: 1596px;
+    border-radius: 10px;
+}
+
+
+.card2 img{
+
+    position: absolute;
+    width: 387px;
+    height: 442px;
+    left: 557px;
+    top: 1596px;
+    border-radius: 10px;
+}
+
+.card3 img{
+    position: absolute;
+    width: 387px;
+    height: 442px;
+    left: 993px;
+    top: 1596px;
+    border-radius: 10px;
+}
+
+.card1 h2{
+/* Свадебные букеты */
+
+
+position: absolute;
+width: 400px;
+height: 48px;
+left: 110px;
+top: 1679px;
+
+font-family: Playfair Display;
+font-style: normal;
+font-weight: bold;
+font-size: 36px;
+line-height: 48px;
+/* identical to box height */
+
+text-align: center;
+letter-spacing: 0.02em;
+
+color: #FFFFFF
+}
+.card1 h3{
+ /* Букеты для невест */
+
+
+position: absolute;
+width: 155px;
+height: 20px;
+left: 237px;
+top: 1765px;
+
+font-family: Montserrat;
+font-style: normal;
+font-weight: normal;
+font-size: 16px;
+line-height: 20px;
+/* identical to box height */
+
+
+color: #FFFFFF   
+}
+.card2 h2{
+ /* Букеты с пионами */
+
+
+position: absolute;
+width: 400px;
+height: 48px;
+left: 552px;
+top: 1679px;
+
+font-family: Playfair Display;
+font-style: normal;
+font-weight: bold;
+font-size: 36px;
+line-height: 48px;
+/* identical to box height */
+
+text-align: center;
+letter-spacing: 0.02em;
+
+color: #FFFFFF;   
+}
+.card2 h3{
+   /* Букеты с сезонными пионами */
+
+
+position: absolute;
+width: 252px;
+height: 20px;
+left: 620px;
+top: 1765px;
+
+font-family: Montserrat;
+font-style: normal;
+font-weight: normal;
+font-size: 16px;
+line-height: 20px;
+/* identical to box height */
+
+
+color: #FFFFFF; 
+}
+.card3 h2{
+ /* Выбрать букет */
+
+
+position: absolute;
+width: 400px;
+height: 48px;
+left: 990px;
+top: 1679px;
+
+font-family: Playfair Display;
+font-style: normal;
+font-weight: bold;
+font-size: 36px;
+line-height: 48px;
+/* identical to box height */
+
+text-align: center;
+letter-spacing: 0.02em;
+
+color: #FFFFFF;   
+}
+.card3 h3{
+  /* Букеты в ассортименте */
+
+
+position: absolute;
+width: 194px;
+height: 20px;
+left: 1090px;
+top: 1765px;
+
+font-family: Montserrat;
+font-style: normal;
+font-weight: normal;
+font-size: 16px;
+line-height: 20px;
+/* identical to box height */
+
+
+color: #FFFFFF;  
+}
+
+.long-rect{
+position: absolute;
+width: 1200px;
+height: 391px;
+left: 150px;
+top: 2120px;
+
+background: #AE7C78
+}
+.container5 img{
+position: absolute;
+width: 590px;
+height: 391px;
+left: 759px;
+top: 2120px;
+
+}
+.container5 h2{
+    position: absolute;
+    width: 488px;
+    height: 118px;
+    left: 222px;
+    top: 2120px;
+    
+    font-family: Playfair Display;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 44px;
+    line-height: 59px;
+    letter-spacing: 0.02em;
+    
+    color: #FFFFFF;
+}
+.container5 h3{
+    position: absolute;
+    width: 387px;
+    height: 145px;
+    left: 222px;
+    top: 2272px;
+    
+    font-family: Montserrat;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 24px;
+    line-height: 29px;
+    
+    color: #FFFFFF;
+}
+
+
+
+
+
+.container6 h1{
+    /* 4 шага к идеальному букету */
+
+
+position: absolute;
+width: 540px;
+height: 48px;
+left: 445px;
+top: 2550px;
+
+font-family: Playfair Display;
+font-style: normal;
+font-weight: bold;
+font-size: 36px;
+line-height: 48px;
+/* identical to box height */
+
+letter-spacing: 0.02em;
+
+color: #AE7C78;
+
+}
+
+.container6-card1 img{
+    position: absolute;
+    width: 285px;
+    height: 60px;
+    left: 124px;
+    top: 2690px;
+}
+.container6-card2 img{
+    position: absolute;
+    width: 285px;
+    height: 60px;
+    left: 435px;
+    top: 2690px;   
+}
+.container6-card3 img{
+    position: absolute;
+    width: 285px;
+    height: 60px;
+    left: 767px;
+    top: 2690px;   
+}
+.container6-card4 img{
+    position: absolute;
+    width: 285px;
+    height: 60px;
+    left: 1080px;
+    top: 2690px;   
+}
+
+.container6-card1 h1{
+/* Заказ */
+
+
+position: absolute;
+width: 48px;
+height: 20px;
+left: 239px;
+top: 2755px;
+
+font-family: Montserrat;
+font-style: normal;
+font-weight: 500;
+font-size: 16px;
+line-height: 20px;
+/* identical to box height */
+
+
+color: #AE7C78;
+}
+.container6-card2 h1{
+  /* Уточнение деталей */
+
+
+position: absolute;
+width: 180px;
+height: 20px;
+left: 490px;
+top: 2755px;
+
+font-family: Montserrat;
+font-style: normal;
+font-weight: 500;
+font-size: 16px;
+line-height: 20px;
+/* identical to box height */
+
+
+color: #AE7C78;  
+}
+.container6-card3 h1{
+ /* Оплата */
+
+
+position: absolute;
+width: 62px;
+height: 20px;
+left: 872px;
+top: 2755px;
+
+font-family: Montserrat;
+font-style: normal;
+font-weight: 500;
+font-size: 16px;
+line-height: 20px;
+/* identical to box height */
+
+
+color: #AE7C78;   
+}
+.container6-card4 h1{
+ /* Доставка */
+
+
+position: absolute;
+width: 78px;
+height: 20px;
+left: 1189px;
+top: 2755px;
+
+font-family: Montserrat;
+font-style: normal;
+font-weight: 500;
+font-size: 16px;
+line-height: 20px;
+/* identical to box height */
+
+
+color: #AE7C78;   
+}
+
+
+.container6-card1 h2{
+/* Выберите понравившийся букет из каталога и оформите заказ */
+
+
+position: absolute;
+width: 285px;
+height: 40px;
+left: 120px;
+top: 2790px;
+
+font-family: Montserrat;
+font-style: normal;
+font-weight: normal;
+font-size: 16px;
+line-height: 20px;
+text-align: center;
+
+color: #AE7C78;
+
+}
+.container6-card2 h2{
+ /* Наш флорист позвонит вам после оформления заказа, чтобы уточнить детали */
+
+
+position: absolute;
+width: 285px;
+height: 60px;
+left: 430px;
+top: 2790px;
+
+font-family: Montserrat;
+font-style: normal;
+font-weight: normal;
+font-size: 16px;
+line-height: 20px;
+text-align: center;
+
+color: #AE7C78;
+   
+}
+.container6-card3 h2{
+ /* Оплатить заказ можно онлайн на сайте или при получении */
+
+
+position: absolute;
+width: 285px;
+height: 40px;
+left: 766px;
+top: 2791px;
+
+font-family: Montserrat;
+font-style: normal;
+font-weight: normal;
+font-size: 16px;
+line-height: 20px;
+text-align: center;
+
+color: #AE7C78;   
+}
+.container6-card4 h2{
+ /* Курьер позвонит за час до прибытия и доставит заказ вовремя */
+
+
+position: absolute;
+width: 285px;
+height: 60px;
+left: 1090px;
+top: 2790px;
+
+font-family: Montserrat;
+font-style: normal;
+font-weight: normal;
+font-size: 16px;
+line-height: 20px;
+text-align: center;
+
+color: #AE7C78;
+   
+}
+
+
+.container7 h1{
+    /* Следите за нашими новостями */
+
+
+position: absolute;
+width: 487px;
+height: 96px;
+left: 120px;
+top: 3071px;
+
+font-family: Playfair Display;
+font-style: normal;
+font-weight: bold;
+font-size: 36px;
+line-height: 48px;
+letter-spacing: 0.02em;
+
+color: #AE7C78;
+}
+.container7 h2{
+    /* Подписывайтесь на наши соцсети и узнавайте о новинках и акциях первым. */
+
+
+position: absolute;
+width: 387px;
+height: 87px;
+left: 120px;
+top: 3207px;
+
+font-family: Montserrat;
+font-style: normal;
+font-weight: normal;
+font-size: 24px;
+line-height: 29px;
+
+color: #AE7C78;
+}
+
+.social7 h1 {
+    position: absolute;
+    left: 120px;
+    top: 3330px; 
+}
+.social7 h2 {
+    position: absolute;
+    left: 180px;
+    top: 3350px; 
+}
+.social7 h3 {
+    position: absolute;
+    left: 240px;
+    top: 3353px;
+}
+.img7 h1 {
+    position: absolute;
+width: 285px;
+height: 220px;
+left: 648px;
+top: 2978px;
+}
+.img7 h2 {
+    position: absolute;
+    width: 285px;
+    height: 220px;
+    left: 648px;
+    top: 3221px;
+}
+.img7 h3 img{
+
+    position: absolute;
+    width: 387px;
+    height: 460px;
+    left: 953px;
+    top: 3001px; 
+}
+
+.rect20{
+    position: absolute;
+width: 1200px;
+height: 308px;
+left: 150px;
+top: 3590px;
+
+border: 1px solid #AE7C78;
+box-sizing: border-box;
+}
+.container8 h1{
+    position: absolute;
+width: 152px;
+height: 48px;
+left: 666px;
+top: 3581px;
+
+font-family: Playfair Display;
+font-style: normal;
+font-weight: bold;
+font-size: 36px;
+line-height: 48px;
+/* identical to box height */
+
+text-align: center;
+letter-spacing: 0.02em;
+
+color: #AE7C78;
+}
+.otzv1 h1{
+    position: absolute;
+    width: 300px;
+    height: 80px;
+    left: 184px;
+    top: 3700px;
+    
+    font-family: Montserrat;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 16px;
+    line-height: 20px;
+    text-align: center;
+    
+    color: #AE7C78;
+}
+.otzv1 h2{
+    position: absolute;
+    width: 68px;
+    height: 20px;
+    left: 300px;
+    top: 3790px;
+    
+    font-family: Montserrat;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 16px;
+    line-height: 20px;
+    /* identical to box height */
+    
+    
+    color: #AE7C78;  
+}
+
+
+.otzv2 h1{
+    position: absolute;
+    width: 300px;
+    height: 80px;
+    left: 590px;
+    top: 3700px;
+    
+    font-family: Montserrat;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 16px;
+    line-height: 20px;
+    text-align: center;
+    
+    color: #AE7C78;
+      
+}
+.otzv2 h2{
+    position: absolute;
+    width: 66px;
+    height: 20px;
+    left: 707px;
+    top: 3790px;
+    
+    font-family: Montserrat;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 16px;
+    line-height: 20px;
+    /* identical to box height */
+    
+    
+    color: #AE7C78;   
+}
+
+.otzv3 h1{
+    position: absolute;
+    width: 300px;
+    height: 80px;
+    left: 996px;
+    top: 3700px;
+    
+    font-family: Montserrat;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 16px;
+    line-height: 20px;
+    text-align: center;
+    
+    color: #AE7C78;   
+}
+.otzv3 h2{
+    position: absolute;
+    width: 50px;
+    height: 20px;
+    left: 1121px;
+    top: 3790px;
+    
+    font-family: Montserrat;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 16px;
+    line-height: 20px;
+    /* identical to box height */
+    
+    
+    color: #AE7C78;   
+}
+
+
+.container9 img{
+position: absolute;
+width: 100%;
+height: 644.1px;
+left: 0px;
+top: 3977px;
+
+}
+
+.rect78 img{
+    /* Rectangle 78 */
+
+
+position: absolute;
+width: 386px;
+height: 520px;
+left: 222px;
+top: 4040px;
+
+background: #F7FAFC;
+box-shadow: 0px 4px 40px rgba(217, 217, 217, 0.3);
+border-radius: 12px;
+}
+
+.rectfooter{
+    position: absolute;
+width: 100%;
+height: 97px;
+left: 0px;
+top: 4621px;
+
+background: #AE7C78;
+}
+.footer img{
+    position: absolute;
+    width: 150px;
+    height: 48px;
+    left: 100px;
+    top: 4650px;
+     
+}
+
+.footer{
+    text-decoration: none;
+}
+
+.footer h1{
+/* Каталог */
+
+
+position: absolute;
+width: 66px;
+height: 20px;
+left: 328px;
+top: 4653px;
+text-decoration: none;
+font-family: Montserrat;
+font-style: normal;
+font-weight: normal;
+font-size: 16px;
+line-height: 20px;
+/* identical to box height */
+
+text-align: center;
+
+color: #FFFFFF;
+}
+.footer h2{
+ /* Доставка и оплата */
+
+
+position: absolute;
+width: 154px;
+height: 20px;
+left: 462px;
+top: 4650px;
+text-decoration: none;
+font-family: Montserrat;
+font-style: normal;
+font-weight: normal;
+font-size: 16px;
+line-height: 20px;
+/* identical to box height */
+
+
+color: #FFFFFF;   
+}
+
+.footer h3{
+ /* Отзывы */
+
+
+position: absolute;
+width: 65px;
+height: 20px;
+left: 684px;
+top: 4647px;
+text-decoration: none;
+font-family: Montserrat;
+font-style: normal;
+font-weight: normal;
+font-size: 16px;
+line-height: 20px;
+/* identical to box height */
+
+text-align: center;
+
+color: #FFFFFF;   
+}
+
+.footer h4{
+ 
+position: absolute;
+width: 160px;
+height: 20px;
+left: 817px;
+top: 4641px;
+
+text-decoration: none;
+
+font-family: Montserrat;
+font-style: normal;
+font-weight: normal;
+font-size: 16px;
+line-height: 20px;
+/* identical to box height */
+
+text-align: center;
+
+color: #FFFFFF;   
+}
+.footer h5{
+ /* Контакты */
+
+
+position: absolute;
+width: 78px;
+height: 20px;
+left: 1045px;
+top: 4635px;
+text-decoration: none;
+font-family: Montserrat;
+font-style: normal;
+font-weight: normal;
+font-size: 16px;
+line-height: 20px;
+/* identical to box height */
+
+text-align: center;
+
+color: #FFFFFF;   
+}
+
+
+.socialf h1 img{
+    position: absolute;
+    left: 1010px;
+    top: 2px; 
+    width: auto;
+    height: auto;
+}
+.socialf h2 img{
+    position: absolute;
+    left: 930px;
+    top: 1px; 
+    width: auto;
+    height: auto;
+}
+.socialf h3 img{
+    position: absolute;
+    left: 750px;
+    top: 1px;
+    width: auto;
+    height: auto;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
